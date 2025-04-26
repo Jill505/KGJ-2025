@@ -77,7 +77,7 @@ public class GameCore : MonoBehaviour
         FightCanvas.SetActive(true);
 
         bool t = true;
-        float timeCal = 0;
+        
 
 
         if (eObject.students != null)
